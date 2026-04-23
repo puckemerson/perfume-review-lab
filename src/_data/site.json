@@ -2,5 +2,10 @@
   "title": "Scent Memory",
   "tagline": "Honest fragrance reviews that capture more than top notes.",
   "category": "perfume",
-  "pathPrefix": "/perfume-review-lab/"
+  "pathPrefix": "/perfume-review-lab/",
+  "slug": "perfume-review-lab",
+  "url": "https://puckemerson.github.io",
+  "about": "This is an independent perfume review site. Each review is a first-person take, grounded in research from across the web, with scoring categories tuned to what actually matters in a fragrance: projection, longevity, character, and value. No affiliate shilling, no gushing superlatives, just the scent as it lives on skin and in memory.",
+  "analytics_snippet": "",
+  "ghUser": "puckemerson"
 }
