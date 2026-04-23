@@ -5,9 +5,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 {# --- SEO computed values --- #}
 {% set isReview = product_name and final_score %}
+{% set isListicle = items and item_count %}
 {% set pageTitle = title or site.title %}
 {% if isReview %}
   {% set metaTitle = product_name + " Review: " + (final_score | round | string) + "/100 - " + site.title %}
+{% elif isListicle %}
+  {% set metaTitle = title + " - " + site.title %}
 {% elif pageTitle == "Home" or not title %}
   {% set metaTitle = site.title + " - " + site.tagline %}
 {% else %}
@@ -16,6 +19,8 @@
 
 {% if isReview %}
   {% set metaDesc = metaDescription or (excerpt | truncate(155)) or site.tagline %}
+{% elif isListicle %}
+  {% set metaDesc = (intro_markdown or angle or site.tagline) | plainText | truncate(155) %}
 {% elif description %}
   {% set metaDesc = description %}
 {% elif pageTitle == "About" %}
@@ -34,7 +39,7 @@
 {% else %}
   {% set ogImage = "" %}
 {% endif %}
-{% set ogType = "article" if isReview else "website" %}
+{% set ogType = "article" if (isReview or isListicle) else "website" %}
 
 <title>{{ metaTitle }}</title>
 <meta name="description" content="{{ metaDesc | htmlAttr | safe }}">
@@ -60,7 +65,7 @@
 {# Fonts: preconnect before stylesheet for performance #}
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;600&family=Cormorant+Garamond:wght@500;700&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=FONT_SANS_QS&family=FONT_SERIF_QS&display=swap">
 <link rel="stylesheet" href="{{ '/_theme.css' | url }}">
 <link rel="stylesheet" href="{{ '/static/style.css' | url }}">
 
@@ -113,6 +118,7 @@
   <p>{{ site.tagline }}</p>
   <nav>
     <a href="{{ '/' | url }}">Home</a>
+    <a href="{{ '/listicles/' | url }}">Best Of</a>
     <a href="{{ '/about/' | url }}">About</a>
   </nav>
 </header>
