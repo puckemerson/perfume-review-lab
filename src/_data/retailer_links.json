@@ -88,5 +88,14 @@
         "affiliate_url": "https://www.beautybox.com.br/perfume-libre-yves-saint-laurent-feminino-eau-de-parfum-90ml/"
       }
     ]
+  },
+  "yves-saint-laurent-black-opium-eau-de-parfum": {
+    "links": [
+      {
+        "retailer": "walmart",
+        "raw_url": "https://www.walmart.com/ip/Yves-Saint-Laurent-Black-Opium-Eau-De-Parfum-Extreme-Spray-1-6-oz/441611659",
+        "affiliate_url": "https://www.walmart.com/ip/Yves-Saint-Laurent-Black-Opium-Eau-De-Parfum-Extreme-Spray-1-6-oz/441611659"
+      }
+    ]
   }
 }
