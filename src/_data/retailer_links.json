@@ -1,0 +1,56 @@
+{
+  "bleu-de-chanel-eau-de-parfum": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://www.chanel.com/ae-en/fragrance/p/107370/bleu-de-chanel-eau-de-parfum-spray/",
+        "affiliate_url": "https://www.chanel.com/ae-en/fragrance/p/107370/bleu-de-chanel-eau-de-parfum-spray/"
+      }
+    ]
+  },
+  "chanel-no-5-eau-de-parfum": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "http://www.webscents.com.au/products/chanel/chanel-no.-5-perfume",
+        "affiliate_url": "http://www.webscents.com.au/products/chanel/chanel-no.-5-perfume"
+      }
+    ]
+  },
+  "creed-aventus-eau-de-parfum": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://clothbase.com/items/22fb80a1_creed-aventus-eau-de-parfum-100-ml",
+        "affiliate_url": "https://clothbase.com/items/22fb80a1_creed-aventus-eau-de-parfum-100-ml"
+      }
+    ]
+  },
+  "dior-sauvage-eau-de-toilette": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://shop.mallofamerica.com/product/sauvage-eau-de-toilette-sephora-c6f64d",
+        "affiliate_url": "https://shop.mallofamerica.com/product/sauvage-eau-de-toilette-sephora-c6f64d"
+      }
+    ]
+  },
+  "tom-ford-black-orchid-eau-de-parfum": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://www.perfumenz.co.nz/products/black-orchid-by-tom-ford-100ml-parfum",
+        "affiliate_url": "https://www.perfumenz.co.nz/products/black-orchid-by-tom-ford-100ml-parfum"
+      }
+    ]
+  },
+  "viktor-and-rolf-flowerbomb-eau-de-parfum": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://escentual.com/products/viktor-rolf-flowerbomb-eau-de-parfum-spray?variant=49266353570116",
+        "affiliate_url": "https://escentual.com/products/viktor-rolf-flowerbomb-eau-de-parfum-spray?variant=49266353570116"
+      }
+    ]
+  }
+}
