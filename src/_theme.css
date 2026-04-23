@@ -1,0 +1,12 @@
+/* theme: forest + Manrope/Cormorant Garamond */
+:root {
+  --bg: #f3f6f0;
+  --fg: #0f1c0e;
+  --muted: #4e5f4b;
+  --accent: #2f5e3d;
+  --accent-soft: #d4e2cf;
+  --border: #ccd8c7;
+  --card: #ffffff;
+  --font-sans: "Manrope", system-ui, -apple-system, sans-serif;
+  --font-serif: "Cormorant Garamond", Georgia, serif;
+}
