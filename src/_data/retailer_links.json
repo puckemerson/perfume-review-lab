@@ -8,6 +8,15 @@
       }
     ]
   },
+  "chanel-coco-mademoiselle-eau-de-parfum": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://www.chanel.com/br/perfumes/p/116520/coco-mademoiselle-eau-de-parfum-spray/",
+        "affiliate_url": "https://www.chanel.com/br/perfumes/p/116520/coco-mademoiselle-eau-de-parfum-spray/"
+      }
+    ]
+  },
   "chanel-no-5-eau-de-parfum": {
     "links": [
       {
@@ -71,12 +80,12 @@
       }
     ]
   },
-  "chanel-coco-mademoiselle-eau-de-parfum": {
+  "yves-saint-laurent-libre-eau-de-parfum": {
     "links": [
       {
         "retailer": "generic",
-        "raw_url": "https://www.chanel.com/br/perfumes/p/116520/coco-mademoiselle-eau-de-parfum-spray/",
-        "affiliate_url": "https://www.chanel.com/br/perfumes/p/116520/coco-mademoiselle-eau-de-parfum-spray/"
+        "raw_url": "https://www.beautybox.com.br/perfume-libre-yves-saint-laurent-feminino-eau-de-parfum-90ml/",
+        "affiliate_url": "https://www.beautybox.com.br/perfume-libre-yves-saint-laurent-feminino-eau-de-parfum-90ml/"
       }
     ]
   }
