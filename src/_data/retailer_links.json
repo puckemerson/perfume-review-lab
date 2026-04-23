@@ -61,5 +61,14 @@
         "affiliate_url": "https://www.amazon.com.au/Yves-Saint-Laurent-Toilette-3-3-Ounce/dp/B0021MLVA8"
       }
     ]
+  },
+  "giorgio-armani-acqua-di-gio-pour-homme-eau-de-toilette": {
+    "links": [
+      {
+        "retailer": "amazon",
+        "raw_url": "https://www.amazon.com/Giorgio-Armani-Acqua-Toilette-Tester/dp/B000IHQ608",
+        "affiliate_url": "https://www.amazon.com/Giorgio-Armani-Acqua-Toilette-Tester/dp/B000IHQ608"
+      }
+    ]
   }
 }
