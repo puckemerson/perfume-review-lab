@@ -71,6 +71,15 @@
       }
     ]
   },
+  "yves-saint-laurent-black-opium-eau-de-parfum": {
+    "links": [
+      {
+        "retailer": "walmart",
+        "raw_url": "https://www.walmart.com/ip/Yves-Saint-Laurent-Black-Opium-Eau-De-Parfum-Extreme-Spray-1-6-oz/441611659",
+        "affiliate_url": "https://www.walmart.com/ip/Yves-Saint-Laurent-Black-Opium-Eau-De-Parfum-Extreme-Spray-1-6-oz/441611659"
+      }
+    ]
+  },
   "yves-saint-laurent-la-nuit-de-lhomme-eau-de-toilette": {
     "links": [
       {
@@ -89,12 +98,12 @@
       }
     ]
   },
-  "yves-saint-laurent-black-opium-eau-de-parfum": {
+  "dior-miss-dior-eau-de-parfum": {
     "links": [
       {
-        "retailer": "walmart",
-        "raw_url": "https://www.walmart.com/ip/Yves-Saint-Laurent-Black-Opium-Eau-De-Parfum-Extreme-Spray-1-6-oz/441611659",
-        "affiliate_url": "https://www.walmart.com/ip/Yves-Saint-Laurent-Black-Opium-Eau-De-Parfum-Extreme-Spray-1-6-oz/441611659"
+        "retailer": "generic",
+        "raw_url": "https://www.dolce.pl/christian-dior/miss-dior/15081.php5",
+        "affiliate_url": "https://www.dolce.pl/christian-dior/miss-dior/15081.php5"
       }
     ]
   }
