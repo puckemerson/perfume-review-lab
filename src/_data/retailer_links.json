@@ -80,6 +80,15 @@
       }
     ]
   },
+  "versace-eros-eau-de-parfum": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://fragranzia.it/prodotto/versace-eros-edp-100ml/",
+        "affiliate_url": "https://fragranzia.it/prodotto/versace-eros-edp-100ml/"
+      }
+    ]
+  },
   "viktor-and-rolf-flowerbomb-eau-de-parfum": {
     "links": [
       {
@@ -125,12 +134,12 @@
       }
     ]
   },
-  "versace-eros-eau-de-parfum": {
+  "gucci-bloom-eau-de-parfum": {
     "links": [
       {
         "retailer": "generic",
-        "raw_url": "https://fragranzia.it/prodotto/versace-eros-edp-100ml/",
-        "affiliate_url": "https://fragranzia.it/prodotto/versace-eros-edp-100ml/"
+        "raw_url": "https://www.gucci.com/uk/en_gb/pr/beauty/fragrances/womens-fragrances/gucci-bloom/gucci-bloom-100ml-eau-de-parfum-p-488830999990099",
+        "affiliate_url": "https://www.gucci.com/uk/en_gb/pr/beauty/fragrances/womens-fragrances/gucci-bloom/gucci-bloom-100ml-eau-de-parfum-p-488830999990099"
       }
     ]
   }
