@@ -62,6 +62,15 @@
       }
     ]
   },
+  "gucci-bloom-eau-de-parfum": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://www.gucci.com/uk/en_gb/pr/beauty/fragrances/womens-fragrances/gucci-bloom/gucci-bloom-100ml-eau-de-parfum-p-488830999990099",
+        "affiliate_url": "https://www.gucci.com/uk/en_gb/pr/beauty/fragrances/womens-fragrances/gucci-bloom/gucci-bloom-100ml-eau-de-parfum-p-488830999990099"
+      }
+    ]
+  },
   "lancome-la-vie-est-belle-eau-de-parfum": {
     "links": [
       {
@@ -134,12 +143,12 @@
       }
     ]
   },
-  "gucci-bloom-eau-de-parfum": {
+  "dolce-and-gabbana-light-blue-eau-de-toilette": {
     "links": [
       {
         "retailer": "generic",
-        "raw_url": "https://www.gucci.com/uk/en_gb/pr/beauty/fragrances/womens-fragrances/gucci-bloom/gucci-bloom-100ml-eau-de-parfum-p-488830999990099",
-        "affiliate_url": "https://www.gucci.com/uk/en_gb/pr/beauty/fragrances/womens-fragrances/gucci-bloom/gucci-bloom-100ml-eau-de-parfum-p-488830999990099"
+        "raw_url": "https://www.ajoia.com.br/perfume-dolce-gabbana-light-blue-eau-de-toilette-feminino",
+        "affiliate_url": "https://www.ajoia.com.br/perfume-dolce-gabbana-light-blue-eau-de-toilette-feminino"
       }
     ]
   }
