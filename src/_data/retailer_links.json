@@ -35,6 +35,15 @@
       }
     ]
   },
+  "dior-miss-dior-eau-de-parfum": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://www.harrods.com/__trashed-7/p/dior-miss-dior-eau-de-parfum-100ml-000000000006893388",
+        "affiliate_url": "https://www.harrods.com/__trashed-7/p/dior-miss-dior-eau-de-parfum-100ml-000000000006893388"
+      }
+    ]
+  },
   "dior-sauvage-eau-de-toilette": {
     "links": [
       {
@@ -98,12 +107,12 @@
       }
     ]
   },
-  "dior-miss-dior-eau-de-parfum": {
+  "lancome-la-vie-est-belle-eau-de-parfum": {
     "links": [
       {
         "retailer": "generic",
-        "raw_url": "https://www.harrods.com/__trashed-7/p/dior-miss-dior-eau-de-parfum-100ml-000000000006893388",
-        "affiliate_url": "https://www.harrods.com/__trashed-7/p/dior-miss-dior-eau-de-parfum-100ml-000000000006893388"
+        "raw_url": "https://shouet.com/eau-de-parfum/763-lancome-la-vie-est-belle-eau-de-parfum-femmes.html",
+        "affiliate_url": "https://shouet.com/eau-de-parfum/763-lancome-la-vie-est-belle-eau-de-parfum-femmes.html"
       }
     ]
   }
