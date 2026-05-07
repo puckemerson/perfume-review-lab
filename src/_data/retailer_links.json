@@ -107,6 +107,15 @@
       }
     ]
   },
+  "paco-rabanne-1-million-eau-de-toilette": {
+    "links": [
+      {
+        "retailer": "sephora",
+        "raw_url": "https://www.sephora.com/product/1-million-P269120",
+        "affiliate_url": "https://www.sephora.com/product/1-million-P269120"
+      }
+    ]
+  },
   "tom-ford-black-orchid-eau-de-parfum": {
     "links": [
       {
@@ -179,12 +188,12 @@
       }
     ]
   },
-  "paco-rabanne-1-million-eau-de-toilette": {
+  "chanel-chance-eau-tendre-eau-de-parfum": {
     "links": [
       {
-        "retailer": "sephora",
-        "raw_url": "https://www.sephora.com/product/1-million-P269120",
-        "affiliate_url": "https://www.sephora.com/product/1-million-P269120"
+        "retailer": "generic",
+        "raw_url": "https://my-eshop.chanel.com/products/chanel-chance-eau-tendre-eau-de-parfum-spray",
+        "affiliate_url": "https://my-eshop.chanel.com/products/chanel-chance-eau-tendre-eau-de-parfum-spray"
       }
     ]
   }
