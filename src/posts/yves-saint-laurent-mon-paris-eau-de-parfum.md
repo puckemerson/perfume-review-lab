@@ -24,7 +24,7 @@ categories:
     weight: 0.1
     score: 72
     rationale: "Priced in the mid-to-upper designer range, it delivers quality befitting the YSL brand but doesn't offer exceptional value. The sweet floral profile is well-executed but not particularly unique in a crowded market segment."
-image: "/images/yves-saint-laurent-mon-paris-eau-de-parfum.webp"
+image: "/images/yves-saint-laurent-mon-paris-eau-de-parfum.png"
 image_source: "https://www.notino.fr/yves-saint-laurent/mon-paris-eau-de-parfum-pour-femme/"
 ---
 
