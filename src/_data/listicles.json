@@ -1,5 +1,49 @@
 [
   {
+    "slug": "evening-fragrances-iris-powder-accords",
+    "title": "Evening Fragrances Built on Iris and Powder",
+    "intro_markdown": "Iris and powder notes occupy a distinct territory in perfumery: neither bright nor overtly sweet, they evoke a kind of refined intimacy suited to dimmed rooms and close conversation. These fragrances layer orris root, violet, and soft musks into compositions that feel textured rather than loud, elegant rather than attention-seeking. Each offers a different interpretation of powdery sophistication after sunset.",
+    "outro_markdown": "These aren't fragrances that broadcast from across a room—they reveal themselves gradually, rewarding proximity. If you're drawn to textures over volume, any of these will feel like finding the right fabric weight for evening wear.",
+    "created_at": 1778774706627,
+    "items": [
+      {
+        "post_slug": "dior-homme-intense-eau-de-parfum",
+        "rank": 1,
+        "blurb_markdown": "The archetype of powdered iris in menswear, layering orris butter with pear and lipstick-soft florals into something that reads both tailored and unexpectedly tender. Wears closer to the skin than its name suggests."
+      },
+      {
+        "post_slug": "chanel-coco-mademoiselle-eau-de-parfum",
+        "rank": 2,
+        "blurb_markdown": "Rose and jasmine anchored by patchouli and vetiver create a powdery floral chypre that skips sweetness entirely. The dry-down feels like pressed silk rather than petals, perfectly pitched for après-work hours."
+      },
+      {
+        "post_slug": "chanel-no-5-eau-de-parfum",
+        "rank": 3,
+        "blurb_markdown": "Aldehydes lift iris and ylang-ylang into a soapy, abstract powder cloud that's become shorthand for a certain kind of composed femininity. Still the reference point for powdery florals nearly a century on."
+      },
+      {
+        "post_slug": "dior-miss-dior-eau-de-parfum",
+        "rank": 4,
+        "blurb_markdown": "Iris meets rose and grasse jasmine with just enough musk to soften the edges into a hazy, romantic powder. Less formal than No. 5, more classically structured than most contemporary florals."
+      },
+      {
+        "post_slug": "yves-saint-laurent-la-nuit-de-lhomme-eau-de-toilette",
+        "rank": 5,
+        "blurb_markdown": "Cardamom and lavender open with spice, but the heart turns to violet and iris with a suede-like texture that feels tailored for low lighting. Wears like a soft-spoken complement to evening dress codes."
+      },
+      {
+        "post_slug": "giorgio-armani-si-eau-de-parfum",
+        "rank": 6,
+        "blurb_markdown": "Blackcurrant nectar plays against freesia and rose, but the orris-driven base pulls everything into a subtle powdery finish that anchors the brighter top. A contemporary take that still leans refined."
+      },
+      {
+        "post_slug": "yves-saint-laurent-libre-eau-de-parfum",
+        "rank": 7,
+        "blurb_markdown": "Lavender and orange blossom rest on a musk-and-vanilla cushion that reads powdery without going overtly floral. The composition balances aromatic freshness with soft, evening-appropriate warmth."
+      }
+    ]
+  },
+  {
     "slug": "office-appropriate-fragrances-professional-settings",
     "title": "Signature Scents for the Office: Fragrances That Project Without Overpowering",
     "intro_markdown": "The office demands restraint without invisibility. These fragrances strike the balance between making an impression and respecting proximity—scents that read as polished, composed, and intentional without broadcasting across conference rooms. Each offers enough projection for close conversation while maintaining the discretion professional environments require.",
