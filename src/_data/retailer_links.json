@@ -125,6 +125,15 @@
       }
     ]
   },
+  "gucci-guilty-absolute-pour-homme-eau-de-parfum": {
+    "links": [
+      {
+        "retailer": "sephora",
+        "raw_url": "https://sephora.in/product/gucci-beauty-guilty-absolute-pour-homme-eau-de-parfum-v-90ml",
+        "affiliate_url": "https://sephora.in/product/gucci-beauty-guilty-absolute-pour-homme-eau-de-parfum-v-90ml"
+      }
+    ]
+  },
   "gucci-guilty-eau-de-parfum": {
     "links": [
       {
@@ -278,12 +287,12 @@
       }
     ]
   },
-  "gucci-guilty-absolute-pour-homme-eau-de-parfum": {
+  "thierry-mugler-angel-eau-de-parfum": {
     "links": [
       {
-        "retailer": "sephora",
-        "raw_url": "https://sephora.in/product/gucci-beauty-guilty-absolute-pour-homme-eau-de-parfum-v-90ml",
-        "affiliate_url": "https://sephora.in/product/gucci-beauty-guilty-absolute-pour-homme-eau-de-parfum-v-90ml"
+        "retailer": "generic",
+        "raw_url": "https://homeshoppingnetwork.co.uk/product/thierry-mugler-angel-perfume-edp-25ml/",
+        "affiliate_url": "https://homeshoppingnetwork.co.uk/product/thierry-mugler-angel-perfume-edp-25ml/"
       }
     ]
   }
