@@ -251,6 +251,15 @@
       }
     ]
   },
+  "yves-saint-laurent-la-nuit-de-lhomme-eau-de-parfum": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://www.onlineshop-helgoland.de/en/produkte/men-perfume/yves-saint-laurent-la-nuit-de-l-homme-eau-de-parfum-100ml",
+        "affiliate_url": "https://www.onlineshop-helgoland.de/en/produkte/men-perfume/yves-saint-laurent-la-nuit-de-l-homme-eau-de-parfum-100ml"
+      }
+    ]
+  },
   "yves-saint-laurent-la-nuit-de-lhomme-eau-de-toilette": {
     "links": [
       {
@@ -296,12 +305,12 @@
       }
     ]
   },
-  "yves-saint-laurent-la-nuit-de-lhomme-eau-de-parfum": {
+  "chanel-chance-eau-fraiche-eau-de-toilette": {
     "links": [
       {
         "retailer": "generic",
-        "raw_url": "https://www.onlineshop-helgoland.de/en/produkte/men-perfume/yves-saint-laurent-la-nuit-de-l-homme-eau-de-parfum-100ml",
-        "affiliate_url": "https://www.onlineshop-helgoland.de/en/produkte/men-perfume/yves-saint-laurent-la-nuit-de-l-homme-eau-de-parfum-100ml"
+        "raw_url": "https://www.chanel.com/lu-fr/parfums/p/136420/chance-eau-fraiche-eau-de-toilette-vaporisateur/",
+        "affiliate_url": "https://www.chanel.com/lu-fr/parfums/p/136420/chance-eau-fraiche-eau-de-toilette-vaporisateur/"
       }
     ]
   }
