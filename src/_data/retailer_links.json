@@ -125,6 +125,15 @@
       }
     ]
   },
+  "gucci-guilty-eau-de-parfum": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://www.flannels.com/gucci-gucci-guilty-pour-femme-eau-de-parfum-50ml-751727",
+        "affiliate_url": "https://www.flannels.com/gucci-gucci-guilty-pour-femme-eau-de-parfum-50ml-751727"
+      }
+    ]
+  },
   "jo-malone-london-english-pear-and-freesia-cologne": {
     "links": [
       {
@@ -260,12 +269,12 @@
       }
     ]
   },
-  "gucci-guilty-eau-de-parfum": {
+  "yves-saint-laurent-opium-eau-de-parfum": {
     "links": [
       {
         "retailer": "generic",
-        "raw_url": "https://www.flannels.com/gucci-gucci-guilty-pour-femme-eau-de-parfum-50ml-751727",
-        "affiliate_url": "https://www.flannels.com/gucci-gucci-guilty-pour-femme-eau-de-parfum-50ml-751727"
+        "raw_url": "https://www.flaconi.de/parfum/yves-saint-laurent/opium/yves-saint-laurent-opium-eau-de-parfum.html",
+        "affiliate_url": "https://www.flaconi.de/parfum/yves-saint-laurent/opium/yves-saint-laurent-opium-eau-de-parfum.html"
       }
     ]
   }
