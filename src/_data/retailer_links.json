@@ -26,6 +26,15 @@
       }
     ]
   },
+  "chanel-chance-eau-de-parfum": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://www.chanel.com/de/parfum/damen/c/7x1x1x32/chance/",
+        "affiliate_url": "https://www.chanel.com/de/parfum/damen/c/7x1x1x32/chance/"
+      }
+    ]
+  },
   "chanel-chance-eau-fraiche-eau-de-toilette": {
     "links": [
       {
@@ -323,12 +332,12 @@
       }
     ]
   },
-  "chanel-chance-eau-de-parfum": {
+  "chanel-no-5-eau-de-toilette": {
     "links": [
       {
         "retailer": "generic",
-        "raw_url": "https://www.chanel.com/de/parfum/damen/c/7x1x1x32/chance/",
-        "affiliate_url": "https://www.chanel.com/de/parfum/damen/c/7x1x1x32/chance/"
+        "raw_url": "https://www.parfuem365.de/damenduefte/23582/chanel-no-5-eau-de-toilette-100-ml",
+        "affiliate_url": "https://www.parfuem365.de/damenduefte/23582/chanel-no-5-eau-de-toilette-100-ml"
       }
     ]
   }
