@@ -260,6 +260,15 @@
       }
     ]
   },
+  "versace-bright-crystal-eau-de-toilette": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://idufte.de/product-ger-1077-Versace-Bright-Crystal-50ml-Eau-de-Toilette.html",
+        "affiliate_url": "https://idufte.de/product-ger-1077-Versace-Bright-Crystal-50ml-Eau-de-Toilette.html"
+      }
+    ]
+  },
   "versace-eros-eau-de-parfum": {
     "links": [
       {
@@ -338,15 +347,6 @@
         "retailer": "generic",
         "raw_url": "https://www.fragrantica.de/Parfum/Yves-Saint-Laurent/Y-Eau-de-Parfum-50757.html",
         "affiliate_url": "https://www.fragrantica.de/Parfum/Yves-Saint-Laurent/Y-Eau-de-Parfum-50757.html"
-      }
-    ]
-  },
-  "versace-bright-crystal-eau-de-toilette": {
-    "links": [
-      {
-        "retailer": "generic",
-        "raw_url": "https://idufte.de/product-ger-1077-Versace-Bright-Crystal-50ml-Eau-de-Toilette.html",
-        "affiliate_url": "https://idufte.de/product-ger-1077-Versace-Bright-Crystal-50ml-Eau-de-Toilette.html"
       }
     ]
   }

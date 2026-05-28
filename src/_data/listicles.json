@@ -1,5 +1,54 @@
 [
   {
+    "slug": "citrus-forward-fragrances-warmer-weather",
+    "title": "Citrus-Forward Fragrances for Warmer Weather",
+    "intro_markdown": "When temperatures rise, heavy orientals and dense woodsy compositions give way to something brighter. These fragrances lead with citrus—bergamot, lemon, grapefruit—and keep their supporting notes light enough to feel refreshing rather than cloying. They're built for heat, designed to energize rather than envelop.",
+    "outro_markdown": "Citrus wears differently on everyone, but these compositions share a structural clarity that keeps them from turning sour or fading into nothingness an hour after application. Worth sampling on skin before committing.",
+    "created_at": 1779984634074,
+    "items": [
+      {
+        "post_slug": "chanel-chance-eau-fraiche-eau-de-toilette",
+        "rank": 1,
+        "blurb_markdown": "The freshest of the Chance lineup, built around a teak-citrus accord that stays crisp without veering into sharp territory. The jasmine heart keeps it from reading as purely utilitarian."
+      },
+      {
+        "post_slug": "giorgio-armani-acqua-di-gio-pour-homme-eau-de-toilette",
+        "rank": 2,
+        "blurb_markdown": "The marine-citrus template that spawned a thousand imitators. Calabrian bergamot and neroli over a transparent base—understated enough for daily rotation in warm climates."
+      },
+      {
+        "post_slug": "dolce-and-gabbana-light-blue-eau-de-toilette",
+        "rank": 3,
+        "blurb_markdown": "Sicilian lemon and Granny Smith apple create a sharp, almost tart opening that mellows into cedarwood. More fruit-forward than purely citrus, but the brightness holds."
+      },
+      {
+        "post_slug": "versace-bright-crystal-eau-de-toilette",
+        "rank": 4,
+        "blurb_markdown": "Yuzu leads here, backed by pomegranate and a whisper of peony. The citrus reads slightly sweeter than classic cologne structures, but the transparency keeps it summer-appropriate."
+      },
+      {
+        "post_slug": "chanel-allure-homme-sport-eau-extreme-eau-de-parfum",
+        "rank": 5,
+        "blurb_markdown": "Mandarin and mint create a brightness that's amplified rather than softened by the tonka base. More structured than a simple citrus splash, but still built for heat."
+      },
+      {
+        "post_slug": "dior-sauvage-eau-de-toilette",
+        "rank": 6,
+        "blurb_markdown": "Calabrian bergamot over ambroxan creates a sharp, peppery citrus that projects forcefully. The Sichuan pepper adds bite—this reads brighter and cleaner in hot weather than cold."
+      },
+      {
+        "post_slug": "chanel-chance-eau-tendre-eau-de-parfum",
+        "rank": 7,
+        "blurb_markdown": "Grapefruit and quince give this a gentle citrus lift that's more suggestion than statement. The floral heart of jasmine and hyacinth keeps it soft, making it a lighter option within the citrus category."
+      },
+      {
+        "post_slug": "jo-malone-london-english-pear-and-freesia-cologne",
+        "rank": 8,
+        "blurb_markdown": "Pear dominates, but the freesia and patchouli provide just enough citrus-adjacent brightness to function in warm weather. Closer to fruity-fresh than true citrus, but the effect is similar."
+      }
+    ]
+  },
+  {
     "slug": "evening-fragrances-iris-powder-accords",
     "title": "Evening Fragrances Built on Iris and Powder",
     "intro_markdown": "Iris and powder notes occupy a distinct territory in perfumery: neither bright nor overtly sweet, they evoke a kind of refined intimacy suited to dimmed rooms and close conversation. These fragrances layer orris root, violet, and soft musks into compositions that feel textured rather than loud, elegant rather than attention-seeking. Each offers a different interpretation of powdery sophistication after sunset.",
