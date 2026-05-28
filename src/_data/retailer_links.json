@@ -17,6 +17,15 @@
       }
     ]
   },
+  "chanel-bleu-de-chanel-eau-de-toilette": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://www.hamiltonplace.com/products/product/bleu-de-chanel-eau-toilette-sephora-fc8205",
+        "affiliate_url": "https://www.hamiltonplace.com/products/product/bleu-de-chanel-eau-toilette-sephora-fc8205"
+      }
+    ]
+  },
   "chanel-chance-eau-fraiche-eau-de-toilette": {
     "links": [
       {
@@ -314,12 +323,12 @@
       }
     ]
   },
-  "chanel-bleu-de-chanel-eau-de-toilette": {
+  "chanel-chance-eau-de-parfum": {
     "links": [
       {
         "retailer": "generic",
-        "raw_url": "https://www.hamiltonplace.com/products/product/bleu-de-chanel-eau-toilette-sephora-fc8205",
-        "affiliate_url": "https://www.hamiltonplace.com/products/product/bleu-de-chanel-eau-toilette-sephora-fc8205"
+        "raw_url": "https://www.chanel.com/de/parfum/damen/c/7x1x1x32/chance/",
+        "affiliate_url": "https://www.chanel.com/de/parfum/damen/c/7x1x1x32/chance/"
       }
     ]
   }
