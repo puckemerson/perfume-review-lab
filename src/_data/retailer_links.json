@@ -233,6 +233,15 @@
       }
     ]
   },
+  "lancome-la-vie-est-belle-soleil-cristal-eau-de-parfum": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://www.vidabellaperfumaria.com.br/feminino/la-vie-est-belle-soleil-cristal-lancome-perfume-feminino-eau-de-parfum-lancome-disponivel-50-ml-100-ml--p",
+        "affiliate_url": "https://www.vidabellaperfumaria.com.br/feminino/la-vie-est-belle-soleil-cristal-lancome-perfume-feminino-eau-de-parfum-lancome-disponivel-50-ml-100-ml--p"
+      }
+    ]
+  },
   "maison-francis-kurkdjian-baccarat-rouge-540-eau-de-parfum": {
     "links": [
       {
@@ -377,12 +386,12 @@
       }
     ]
   },
-  "lancome-la-vie-est-belle-soleil-cristal-eau-de-parfum": {
+  "chanel-gabrielle-eau-de-parfum": {
     "links": [
       {
         "retailer": "generic",
-        "raw_url": "https://www.vidabellaperfumaria.com.br/feminino/la-vie-est-belle-soleil-cristal-lancome-perfume-feminino-eau-de-parfum-lancome-disponivel-50-ml-100-ml--p",
-        "affiliate_url": "https://www.vidabellaperfumaria.com.br/feminino/la-vie-est-belle-soleil-cristal-lancome-perfume-feminino-eau-de-parfum-lancome-disponivel-50-ml-100-ml--p"
+        "raw_url": "https://www.chanel.com/ca-en/fragrance/women/c/7x1x1x40/gabrielle-chanel/",
+        "affiliate_url": "https://www.chanel.com/ca-en/fragrance/women/c/7x1x1x40/gabrielle-chanel/"
       }
     ]
   }
