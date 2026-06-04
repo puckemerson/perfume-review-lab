@@ -8,6 +8,15 @@
       }
     ]
   },
+  "burberry-her-eau-de-parfum": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://www.adorebeauty.com.au/p/burberry/burberry-her-edp-100-ml.html",
+        "affiliate_url": "https://www.adorebeauty.com.au/p/burberry/burberry-her-edp-100-ml.html"
+      }
+    ]
+  },
   "chanel-allure-homme-sport-eau-extreme-eau-de-parfum": {
     "links": [
       {
@@ -350,12 +359,12 @@
       }
     ]
   },
-  "burberry-her-eau-de-parfum": {
+  "dior-sauvage-eau-de-parfum": {
     "links": [
       {
         "retailer": "generic",
-        "raw_url": "https://www.adorebeauty.com.au/p/burberry/burberry-her-edp-100-ml.html",
-        "affiliate_url": "https://www.adorebeauty.com.au/p/burberry/burberry-her-edp-100-ml.html"
+        "raw_url": "https://www.fragrantica.fr/news/Dior-Sauvage-Eau-de-Parfum-2295.html",
+        "affiliate_url": "https://www.fragrantica.fr/news/Dior-Sauvage-Eau-de-Parfum-2295.html"
       }
     ]
   }
