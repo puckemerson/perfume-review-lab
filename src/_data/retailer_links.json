@@ -125,6 +125,15 @@
       }
     ]
   },
+  "dior-sauvage-eau-de-parfum": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://www.fragrantica.fr/news/Dior-Sauvage-Eau-de-Parfum-2295.html",
+        "affiliate_url": "https://www.fragrantica.fr/news/Dior-Sauvage-Eau-de-Parfum-2295.html"
+      }
+    ]
+  },
   "dior-sauvage-eau-de-toilette": {
     "links": [
       {
@@ -359,12 +368,12 @@
       }
     ]
   },
-  "dior-sauvage-eau-de-parfum": {
+  "yves-saint-laurent-libre-intense-eau-de-parfum": {
     "links": [
       {
         "retailer": "generic",
-        "raw_url": "https://www.fragrantica.fr/news/Dior-Sauvage-Eau-de-Parfum-2295.html",
-        "affiliate_url": "https://www.fragrantica.fr/news/Dior-Sauvage-Eau-de-Parfum-2295.html"
+        "raw_url": "https://www.perfumenz.co.nz/products/libre-intense-by-yves-saint-laurent-90ml-edp",
+        "affiliate_url": "https://www.perfumenz.co.nz/products/libre-intense-by-yves-saint-laurent-90ml-edp"
       }
     ]
   }
