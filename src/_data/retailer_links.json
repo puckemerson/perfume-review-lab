@@ -269,6 +269,15 @@
       }
     ]
   },
+  "prada-paradoxe-eau-de-parfum": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://lyko.com/sv/prada/prada-persona-eau-de-parfum-30-ml",
+        "affiliate_url": "https://lyko.com/sv/prada/prada-persona-eau-de-parfum-30-ml"
+      }
+    ]
+  },
   "thierry-mugler-angel-eau-de-parfum": {
     "links": [
       {
@@ -395,12 +404,12 @@
       }
     ]
   },
-  "prada-paradoxe-eau-de-parfum": {
+  "lancome-tresor-eau-de-parfum": {
     "links": [
       {
         "retailer": "generic",
-        "raw_url": "https://lyko.com/sv/prada/prada-persona-eau-de-parfum-30-ml",
-        "affiliate_url": "https://lyko.com/sv/prada/prada-persona-eau-de-parfum-30-ml"
+        "raw_url": "https://www.notino.it/lancome/la-nuit-tresor-eau-de-parfum-per-donna/",
+        "affiliate_url": "https://www.notino.it/lancome/la-nuit-tresor-eau-de-parfum-per-donna/"
       }
     ]
   }
