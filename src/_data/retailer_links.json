@@ -251,6 +251,15 @@
       }
     ]
   },
+  "lancome-tresor-eau-de-parfum": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://www.notino.it/lancome/la-nuit-tresor-eau-de-parfum-per-donna/",
+        "affiliate_url": "https://www.notino.it/lancome/la-nuit-tresor-eau-de-parfum-per-donna/"
+      }
+    ]
+  },
   "maison-francis-kurkdjian-baccarat-rouge-540-eau-de-parfum": {
     "links": [
       {
@@ -404,12 +413,12 @@
       }
     ]
   },
-  "lancome-tresor-eau-de-parfum": {
+  "narciso-rodriguez-for-her-eau-de-parfum": {
     "links": [
       {
         "retailer": "generic",
-        "raw_url": "https://www.notino.it/lancome/la-nuit-tresor-eau-de-parfum-per-donna/",
-        "affiliate_url": "https://www.notino.it/lancome/la-nuit-tresor-eau-de-parfum-per-donna/"
+        "raw_url": "https://www.pluricosmetica.com/pt/catalog/202/narciso-rodriguez-for-her-eau-de-parfum-vaporizador-800057/",
+        "affiliate_url": "https://www.pluricosmetica.com/pt/catalog/202/narciso-rodriguez-for-her-eau-de-parfum-vaporizador-800057/"
       }
     ]
   }
