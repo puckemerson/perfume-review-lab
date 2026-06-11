@@ -269,6 +269,15 @@
       }
     ]
   },
+  "narciso-rodriguez-for-her-eau-de-parfum": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://www.pluricosmetica.com/pt/catalog/202/narciso-rodriguez-for-her-eau-de-parfum-vaporizador-800057/",
+        "affiliate_url": "https://www.pluricosmetica.com/pt/catalog/202/narciso-rodriguez-for-her-eau-de-parfum-vaporizador-800057/"
+      }
+    ]
+  },
   "paco-rabanne-1-million-eau-de-toilette": {
     "links": [
       {
@@ -413,12 +422,12 @@
       }
     ]
   },
-  "narciso-rodriguez-for-her-eau-de-parfum": {
+  "givenchy-linterdit-eau-de-parfum": {
     "links": [
       {
-        "retailer": "generic",
-        "raw_url": "https://www.pluricosmetica.com/pt/catalog/202/narciso-rodriguez-for-her-eau-de-parfum-vaporizador-800057/",
-        "affiliate_url": "https://www.pluricosmetica.com/pt/catalog/202/narciso-rodriguez-for-her-eau-de-parfum-vaporizador-800057/"
+        "retailer": "walmart",
+        "raw_url": "https://www.walmart.com/ip/Givenchy-L-Interdit-Eau-De-Parfum-Perfume-for-Women-2-5-Oz/937860678",
+        "affiliate_url": "https://www.walmart.com/ip/Givenchy-L-Interdit-Eau-De-Parfum-Perfume-for-Women-2-5-Oz/937860678"
       }
     ]
   }
