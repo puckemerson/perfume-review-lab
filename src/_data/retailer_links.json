@@ -179,6 +179,15 @@
       }
     ]
   },
+  "givenchy-linterdit-eau-de-parfum": {
+    "links": [
+      {
+        "retailer": "walmart",
+        "raw_url": "https://www.walmart.com/ip/Givenchy-L-Interdit-Eau-De-Parfum-Perfume-for-Women-2-5-Oz/937860678",
+        "affiliate_url": "https://www.walmart.com/ip/Givenchy-L-Interdit-Eau-De-Parfum-Perfume-for-Women-2-5-Oz/937860678"
+      }
+    ]
+  },
   "gucci-bloom-eau-de-parfum": {
     "links": [
       {
@@ -422,12 +431,12 @@
       }
     ]
   },
-  "givenchy-linterdit-eau-de-parfum": {
+  "gucci-guilty-pour-homme-eau-de-toilette": {
     "links": [
       {
-        "retailer": "walmart",
-        "raw_url": "https://www.walmart.com/ip/Givenchy-L-Interdit-Eau-De-Parfum-Perfume-for-Women-2-5-Oz/937860678",
-        "affiliate_url": "https://www.walmart.com/ip/Givenchy-L-Interdit-Eau-De-Parfum-Perfume-for-Women-2-5-Oz/937860678"
+        "retailer": "generic",
+        "raw_url": "https://www.gucci.com/ie/en_gb/pr/beauty/fragrances/fragrances-for-men/gucci-guilty-pour-homme-90ml-eau-de-toilette-p-563057999990099",
+        "affiliate_url": "https://www.gucci.com/ie/en_gb/pr/beauty/fragrances/fragrances-for-men/gucci-guilty-pour-homme-90ml-eau-de-toilette-p-563057999990099"
       }
     ]
   }
