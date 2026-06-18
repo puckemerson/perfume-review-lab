@@ -457,5 +457,14 @@
         "affiliate_url": "https://www.amazon.com.au/Yves-Saint-Laurent-Toilette-Spray/dp/B09VLCJSZ9"
       }
     ]
+  },
+  "tom-ford-tobacco-vanille-eau-de-parfum": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://www.my-origines.com/gb/tobacco-vanille-88F23104.html",
+        "affiliate_url": "https://www.my-origines.com/gb/tobacco-vanille-88F23104.html"
+      }
+    ]
   }
 }
