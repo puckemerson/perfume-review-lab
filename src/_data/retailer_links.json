@@ -215,6 +215,15 @@
       }
     ]
   },
+  "gucci-guilty-pour-homme-eau-de-toilette": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://www.gucci.com/ie/en_gb/pr/beauty/fragrances/fragrances-for-men/gucci-guilty-pour-homme-90ml-eau-de-toilette-p-563057999990099",
+        "affiliate_url": "https://www.gucci.com/ie/en_gb/pr/beauty/fragrances/fragrances-for-men/gucci-guilty-pour-homme-90ml-eau-de-toilette-p-563057999990099"
+      }
+    ]
+  },
   "jo-malone-london-english-pear-and-freesia-cologne": {
     "links": [
       {
@@ -431,12 +440,12 @@
       }
     ]
   },
-  "gucci-guilty-pour-homme-eau-de-toilette": {
+  "chanel-chance-eau-vive-eau-de-toilette": {
     "links": [
       {
         "retailer": "generic",
-        "raw_url": "https://www.gucci.com/ie/en_gb/pr/beauty/fragrances/fragrances-for-men/gucci-guilty-pour-homme-90ml-eau-de-toilette-p-563057999990099",
-        "affiliate_url": "https://www.gucci.com/ie/en_gb/pr/beauty/fragrances/fragrances-for-men/gucci-guilty-pour-homme-90ml-eau-de-toilette-p-563057999990099"
+        "raw_url": "https://www.salontotal.ch/produit/chanel-chance-eau-vive-eau-de-toilette-150ml-25313",
+        "affiliate_url": "https://www.salontotal.ch/produit/chanel-chance-eau-vive-eau-de-toilette-150ml-25313"
       }
     ]
   }
