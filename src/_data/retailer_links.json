@@ -466,5 +466,14 @@
         "affiliate_url": "https://www.amazon.com.au/Yves-Saint-Laurent-Toilette-Spray/dp/B09VLCJSZ9"
       }
     ]
+  },
+  "viktor-and-rolf-bonbon-eau-de-parfum": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://fragrancehouse.co.uk/product/viktor-rolf-bonbon-eau-de-parfum-50ml/",
+        "affiliate_url": "https://fragrancehouse.co.uk/product/viktor-rolf-bonbon-eau-de-parfum-50ml/"
+      }
+    ]
   }
 }
