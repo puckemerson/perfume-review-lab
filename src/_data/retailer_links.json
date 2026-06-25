@@ -359,6 +359,15 @@
       }
     ]
   },
+  "valentino-voce-viva-eau-de-parfum": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://fragrancehouse.co.uk/product/valentino-voce-viva-eau-de-parfum-100ml/",
+        "affiliate_url": "https://fragrancehouse.co.uk/product/valentino-voce-viva-eau-de-parfum-100ml/"
+      }
+    ]
+  },
   "versace-bright-crystal-eau-de-toilette": {
     "links": [
       {
@@ -485,12 +494,12 @@
       }
     ]
   },
-  "valentino-voce-viva-eau-de-parfum": {
+  "jean-paul-gaultier-le-male-eau-de-toilette": {
     "links": [
       {
         "retailer": "generic",
-        "raw_url": "https://fragrancehouse.co.uk/product/valentino-voce-viva-eau-de-parfum-100ml/",
-        "affiliate_url": "https://fragrancehouse.co.uk/product/valentino-voce-viva-eau-de-parfum-100ml/"
+        "raw_url": "https://www.notino.pt/jean-p-gaultier/le-male-eau-de-toilette-para-homens/",
+        "affiliate_url": "https://www.notino.pt/jean-p-gaultier/le-male-eau-de-toilette-para-homens/"
       }
     ]
   }
