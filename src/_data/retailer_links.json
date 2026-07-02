@@ -233,6 +233,15 @@
       }
     ]
   },
+  "jean-paul-gaultier-le-male-eau-de-toilette": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://www.notino.pt/jean-p-gaultier/le-male-eau-de-toilette-para-homens/",
+        "affiliate_url": "https://www.notino.pt/jean-p-gaultier/le-male-eau-de-toilette-para-homens/"
+      }
+    ]
+  },
   "jo-malone-london-english-pear-and-freesia-cologne": {
     "links": [
       {
@@ -494,12 +503,12 @@
       }
     ]
   },
-  "jean-paul-gaultier-le-male-eau-de-toilette": {
+  "hermes-terre-dhermes-eau-de-toilette": {
     "links": [
       {
         "retailer": "generic",
-        "raw_url": "https://www.notino.pt/jean-p-gaultier/le-male-eau-de-toilette-para-homens/",
-        "affiliate_url": "https://www.notino.pt/jean-p-gaultier/le-male-eau-de-toilette-para-homens/"
+        "raw_url": "https://www.ringeltaube.de/Hermes-Terre-d-Hermes-Eau-de-Toilette-100-ml/205160",
+        "affiliate_url": "https://www.ringeltaube.de/Hermes-Terre-d-Hermes-Eau-de-Toilette-100-ml/205160"
       }
     ]
   }
