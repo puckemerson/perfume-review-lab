@@ -233,6 +233,15 @@
       }
     ]
   },
+  "hermes-terre-dhermes-eau-de-toilette": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://www.ringeltaube.de/Hermes-Terre-d-Hermes-Eau-de-Toilette-100-ml/205160",
+        "affiliate_url": "https://www.ringeltaube.de/Hermes-Terre-d-Hermes-Eau-de-Toilette-100-ml/205160"
+      }
+    ]
+  },
   "jean-paul-gaultier-le-male-eau-de-toilette": {
     "links": [
       {
@@ -503,12 +512,12 @@
       }
     ]
   },
-  "hermes-terre-dhermes-eau-de-toilette": {
+  "paco-rabanne-invictus-eau-de-toilette": {
     "links": [
       {
         "retailer": "generic",
-        "raw_url": "https://www.ringeltaube.de/Hermes-Terre-d-Hermes-Eau-de-Toilette-100-ml/205160",
-        "affiliate_url": "https://www.ringeltaube.de/Hermes-Terre-d-Hermes-Eau-de-Toilette-100-ml/205160"
+        "raw_url": "https://www.notino.fr/paco-rabanne/invictus-eau-de-toilette-pour-homme/",
+        "affiliate_url": "https://www.notino.fr/paco-rabanne/invictus-eau-de-toilette-pour-homme/"
       }
     ]
   }
