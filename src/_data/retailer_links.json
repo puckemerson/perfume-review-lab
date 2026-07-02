@@ -520,5 +520,14 @@
         "affiliate_url": "https://www.amazon.com.au/Yves-Saint-Laurent-Toilette-Spray/dp/B09VLCJSZ9"
       }
     ]
+  },
+  "givenchy-gentleman-eau-de-parfum": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://storage.googleapis.com/dvxkkwfnqzdkbe/gentleman-eau-de-parfum-givenchy.html",
+        "affiliate_url": "https://storage.googleapis.com/dvxkkwfnqzdkbe/gentleman-eau-de-parfum-givenchy.html"
+      }
+    ]
   }
 }
