@@ -305,6 +305,15 @@
       }
     ]
   },
+  "lancome-miracle-eau-de-parfum": {
+    "links": [
+      {
+        "retailer": "walmart",
+        "raw_url": "https://www.walmart.com/ip/Lancome-Miracle-Eau-De-Parfum-Perfume-for-Women-1-Oz/25524078",
+        "affiliate_url": "https://www.walmart.com/ip/Lancome-Miracle-Eau-De-Parfum-Perfume-for-Women-1-Oz/25524078"
+      }
+    ]
+  },
   "lancome-tresor-eau-de-parfum": {
     "links": [
       {
@@ -539,12 +548,12 @@
       }
     ]
   },
-  "lancome-miracle-eau-de-parfum": {
+  "lancome-hypnose-eau-de-parfum": {
     "links": [
       {
-        "retailer": "walmart",
-        "raw_url": "https://www.walmart.com/ip/Lancome-Miracle-Eau-De-Parfum-Perfume-for-Women-1-Oz/25524078",
-        "affiliate_url": "https://www.walmart.com/ip/Lancome-Miracle-Eau-De-Parfum-Perfume-for-Women-1-Oz/25524078"
+        "retailer": "generic",
+        "raw_url": "https://www.parfumo.com/Perfumes/Lancome/Hypnse",
+        "affiliate_url": "https://www.parfumo.com/Perfumes/Lancome/Hypnse"
       }
     ]
   }
