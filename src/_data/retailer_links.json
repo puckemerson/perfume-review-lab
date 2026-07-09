@@ -323,6 +323,15 @@
       }
     ]
   },
+  "marc-jacobs-daisy-eau-de-toilette": {
+    "links": [
+      {
+        "retailer": "walmart",
+        "raw_url": "https://www.walmart.com/ip/Marc-Jacobs-Daisy-Eau-De-Toilette-Perfume-for-Women-3-4-oz/25475810",
+        "affiliate_url": "https://www.walmart.com/ip/Marc-Jacobs-Daisy-Eau-De-Toilette-Perfume-for-Women-3-4-oz/25475810"
+      }
+    ]
+  },
   "narciso-rodriguez-for-her-eau-de-parfum": {
     "links": [
       {
@@ -530,12 +539,12 @@
       }
     ]
   },
-  "marc-jacobs-daisy-eau-de-toilette": {
+  "lancome-miracle-eau-de-parfum": {
     "links": [
       {
         "retailer": "walmart",
-        "raw_url": "https://www.walmart.com/ip/Marc-Jacobs-Daisy-Eau-De-Toilette-Perfume-for-Women-3-4-oz/25475810",
-        "affiliate_url": "https://www.walmart.com/ip/Marc-Jacobs-Daisy-Eau-De-Toilette-Perfume-for-Women-3-4-oz/25475810"
+        "raw_url": "https://www.walmart.com/ip/Lancome-Miracle-Eau-De-Parfum-Perfume-for-Women-1-Oz/25524078",
+        "affiliate_url": "https://www.walmart.com/ip/Lancome-Miracle-Eau-De-Parfum-Perfume-for-Women-1-Oz/25524078"
       }
     ]
   }
