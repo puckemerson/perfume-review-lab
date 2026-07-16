@@ -242,6 +242,15 @@
       }
     ]
   },
+  "guerlain-mon-guerlain-eau-de-parfum": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://escentual.com/products/guerlain-mon-guerlain-eau-de-parfum-spray-50ml?variant=49266280268100",
+        "affiliate_url": "https://escentual.com/products/guerlain-mon-guerlain-eau-de-parfum-spray-50ml?variant=49266280268100"
+      }
+    ]
+  },
   "hermes-terre-dhermes-eau-de-toilette": {
     "links": [
       {
@@ -557,12 +566,12 @@
       }
     ]
   },
-  "guerlain-mon-guerlain-eau-de-parfum": {
+  "versace-eros-eau-de-toilette": {
     "links": [
       {
         "retailer": "generic",
-        "raw_url": "https://escentual.com/products/guerlain-mon-guerlain-eau-de-parfum-spray-50ml?variant=49266280268100",
-        "affiliate_url": "https://escentual.com/products/guerlain-mon-guerlain-eau-de-parfum-spray-50ml?variant=49266280268100"
+        "raw_url": "https://www.notino.at/versace/eros-eau-de-toilette-fur-herren/",
+        "affiliate_url": "https://www.notino.at/versace/eros-eau-de-toilette-fur-herren/"
       }
     ]
   }
