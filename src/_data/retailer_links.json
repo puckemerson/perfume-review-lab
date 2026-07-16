@@ -458,6 +458,15 @@
       }
     ]
   },
+  "versace-eros-eau-de-toilette": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://www.notino.at/versace/eros-eau-de-toilette-fur-herren/",
+        "affiliate_url": "https://www.notino.at/versace/eros-eau-de-toilette-fur-herren/"
+      }
+    ]
+  },
   "viktor-and-rolf-bonbon-eau-de-parfum": {
     "links": [
       {
@@ -563,15 +572,6 @@
         "retailer": "amazon",
         "raw_url": "https://www.amazon.com.au/Yves-Saint-Laurent-Toilette-Spray/dp/B09VLCJSZ9",
         "affiliate_url": "https://www.amazon.com.au/Yves-Saint-Laurent-Toilette-Spray/dp/B09VLCJSZ9"
-      }
-    ]
-  },
-  "versace-eros-eau-de-toilette": {
-    "links": [
-      {
-        "retailer": "generic",
-        "raw_url": "https://www.notino.at/versace/eros-eau-de-toilette-fur-herren/",
-        "affiliate_url": "https://www.notino.at/versace/eros-eau-de-toilette-fur-herren/"
       }
     ]
   }
