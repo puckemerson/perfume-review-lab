@@ -574,5 +574,14 @@
         "affiliate_url": "https://www.amazon.com.au/Yves-Saint-Laurent-Toilette-Spray/dp/B09VLCJSZ9"
       }
     ]
+  },
+  "armani-code-eau-de-toilette": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://www.armani.com/en-us/giorgio-armani/armani-code-125-ml-eau-de-toilette-cod-LD423500-NLP-125ML/",
+        "affiliate_url": "https://www.armani.com/en-us/giorgio-armani/armani-code-125-ml-eau-de-toilette-cod-LD423500-NLP-125ML/"
+      }
+    ]
   }
 }
