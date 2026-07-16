@@ -269,6 +269,15 @@
       }
     ]
   },
+  "lancome-hypnose-eau-de-parfum": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://www.parfumo.com/Perfumes/Lancome/Hypnse",
+        "affiliate_url": "https://www.parfumo.com/Perfumes/Lancome/Hypnse"
+      }
+    ]
+  },
   "lancome-idole-eau-de-parfum": {
     "links": [
       {
@@ -548,12 +557,12 @@
       }
     ]
   },
-  "lancome-hypnose-eau-de-parfum": {
+  "guerlain-mon-guerlain-eau-de-parfum": {
     "links": [
       {
         "retailer": "generic",
-        "raw_url": "https://www.parfumo.com/Perfumes/Lancome/Hypnse",
-        "affiliate_url": "https://www.parfumo.com/Perfumes/Lancome/Hypnse"
+        "raw_url": "https://escentual.com/products/guerlain-mon-guerlain-eau-de-parfum-spray-50ml?variant=49266280268100",
+        "affiliate_url": "https://escentual.com/products/guerlain-mon-guerlain-eau-de-parfum-spray-50ml?variant=49266280268100"
       }
     ]
   }
