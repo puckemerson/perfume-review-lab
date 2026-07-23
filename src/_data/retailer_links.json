@@ -26,6 +26,15 @@
       }
     ]
   },
+  "carolina-herrera-good-girl-eau-de-parfum": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://alfariscosmetique.ma/shop/carolina-herrera-good-girl-eau-de-parfum-150ml/",
+        "affiliate_url": "https://alfariscosmetique.ma/shop/carolina-herrera-good-girl-eau-de-parfum-150ml/"
+      }
+    ]
+  },
   "chanel-allure-homme-sport-eau-extreme-eau-de-parfum": {
     "links": [
       {
@@ -593,12 +602,12 @@
       }
     ]
   },
-  "carolina-herrera-good-girl-eau-de-parfum": {
+  "calvin-klein-ck-one-eau-de-toilette": {
     "links": [
       {
         "retailer": "generic",
-        "raw_url": "https://alfariscosmetique.ma/shop/carolina-herrera-good-girl-eau-de-parfum-150ml/",
-        "affiliate_url": "https://alfariscosmetique.ma/shop/carolina-herrera-good-girl-eau-de-parfum-150ml/"
+        "raw_url": "https://fragrancehouse.co.uk/product/calvin-klein-ck-one-eau-de-toilette-200ml/",
+        "affiliate_url": "https://fragrancehouse.co.uk/product/calvin-klein-ck-one-eau-de-toilette-200ml/"
       }
     ]
   }
